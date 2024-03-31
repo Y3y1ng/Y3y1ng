@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,docker,redis,mysql,html,css,python,powershell,idea,pycharm,vscode,git,github,vim,md,gmail,obsidian&theme=light)](https://skillicons.dev)
 
 <!--
-**Y3y1ng/Y3y1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,docker,redis,mysql,html,css,python,powershell,idea,pycharm,vscode,git,github,vim,md,gmail,obsidian" />
+  </a>
+</p>
+--!>
