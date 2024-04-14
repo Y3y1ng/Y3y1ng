@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,docker,redis,mysql,html,css,python,powershell,idea,pycharm,vscode,git,github,vim,md,gmail,obsidian&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,docker,redis,mysql,html,css,python,powershell,idea,pycharm,vscode,git,github,vim,md,gmail,obsidian)](https://skillicons.dev)
 
 <!--
 <p align="center">
